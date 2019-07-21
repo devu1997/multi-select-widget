@@ -25,7 +25,7 @@ This is a multi select widget using Bootstrap and Jquery
 ## Usage
 
 ```html
-    <select name="" class="multi-select-input" multiple="multiple">
+    <select class="multi-select-input" multiple="multiple">
         <option></option>
         <option></option>
     </select>
